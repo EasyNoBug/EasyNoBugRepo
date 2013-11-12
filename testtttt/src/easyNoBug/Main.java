@@ -1,4 +1,4 @@
-package testtttt;
+package easyNoBug;
 
 public class Main {
 
